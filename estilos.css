@@ -1,0 +1,60 @@
+body{
+    background-color: darkslateblue;
+}
+.sobretotal
+{
+    background: darkslateblue;
+}
+
+
+p
+{
+    padding: 10px 20px 15px;
+    background-color: darkslateblue;
+    text-align: center;
+    font-size: 22px;
+    color: whitesmoke;
+    font-family: monospace;
+    
+}
+.mtssouto img
+{
+    float: left;
+    margin: 0px 10px 10px 0px;
+    background-color: snow;
+    border-color: red;
+    border: 5px solid;
+    text-align: center;
+    padding: 5px;
+    
+}
+}
+
+.comando{
+    color: gold;
+    font-size: 22px;
+    
+}
+
+.parenteses{
+     color: grey;
+     font-size: 22px;
+}
+
+.variavel{
+    
+    color: firebrick;
+     font-size: 22px;
+}
+
+.igual{
+    
+    color: whitesmoke;
+     font-size: 22px;
+        
+}
+.bracket{
+    color: grey;
+    font-size: 22px
+
+}
